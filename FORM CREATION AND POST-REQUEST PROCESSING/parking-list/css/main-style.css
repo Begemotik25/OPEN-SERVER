@@ -1,0 +1,23 @@
+span.car-director{
+	color: hsl(244, 78%, 67%);
+}
+span.car-adress{
+	font-size: 0.8em;
+	color: rgb(231, 99, 248);
+}
+td,th{
+	border-style: solid;
+	border-color: #000000;
+	border-width: 1px;
+}
+th{
+	background-color: #c0c0c0;
+	font-weight: bold;
+}
+tr.row{
+	background-color: #f2f2f2;
+	text-align : center;
+}
+header{
+	margin-bottom: 40px;
+}

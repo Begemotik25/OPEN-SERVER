@@ -1,0 +1,9 @@
+tr.car-first {
+    background-color: rgb(165, 248, 220);
+}
+tr.car-second {
+    background-color: azure;
+}
+tr.car-first, tr.car-second {
+    text-align: center;
+}

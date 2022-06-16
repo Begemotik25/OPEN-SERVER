@@ -1,0 +1,48 @@
+form
+{
+    display: table;
+    padding-top: 20px;  
+}
+form div
+{
+  display: table-row;
+  line-height: 40px; 
+  font-size: 14pt;
+}
+form div label, form div input, form div select
+{
+    display: table-cell;
+    font-size: 14pt;
+}
+form div label
+{
+    padding-right: 50px;
+}
+form div input, form div select
+{
+    border-radius: 5px;
+}
+input [name='car_number']
+{
+    width: 100 px;
+}
+input [name='car_brand']
+{
+    width: 300 px;
+}
+input [name='car_pad']
+{
+    width: 150 px;
+}
+input [type="checkbox"]
+{
+    transform: scale(1.5);}
+a{
+    font-size: 14pt;
+    color: blue;
+    text-decoration: none;
+}
+a:hover
+{
+    color: skyblue;
+}

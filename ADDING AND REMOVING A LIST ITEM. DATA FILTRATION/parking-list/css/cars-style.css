@@ -1,0 +1,9 @@
+tr.car-first{
+    background-color: #ece7a1;
+}
+tr.car-second{
+    background-color: #94e9e2;
+}
+tr.car-first,tr.car-second{
+    text-align: center;
+}

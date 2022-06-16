@@ -1,0 +1,15 @@
+div.parking-list, div.user-info, div.parking-control, div.table-cars {
+    margin-top: 20px;
+}
+section.cars {
+    margin-top: 40px;
+}
+div.user.info a, div.parking-control a {
+    margin-left: 10px;
+}
+div.table-cars table th {
+    text-align: center;
+}
+div.add-car {
+    margin-bottom: 10px;
+}
